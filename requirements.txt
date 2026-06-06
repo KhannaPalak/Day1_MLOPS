@@ -1,0 +1,4 @@
+pandas #helps in data manipulation
+scikit-learn #helps in data
+joblib #helps in storing data in .pkl file
+
